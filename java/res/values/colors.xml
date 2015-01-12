@@ -83,5 +83,11 @@
     <color name="setup_step_background">@android:color/background_light</color>
     <color name="setup_welcome_video_margin_color">#FFCCCCCC</color>
     <!-- Accent color for the notification. We need to match this to the OS build -->
+
     <color name="notification_accent_color">#FF000000</color>
+
+    <!-- Palette colors referenced by top-level themes. -->
+    <color name="theme_primary">#ff263238</color>
+    <color name="theme_primary_dark">#ff21272b</color>
+    <color name="theme_accent">#ff009688</color>
 </resources>
