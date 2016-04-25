@@ -60,21 +60,21 @@
     <color name="emoji_tab_page_indicator_background_lxx_light">#E4E7E9</color>
     <!-- Color resources for LXX_Dark theme.
          10%:0x19 50%:0x80 70%:0xB3 75%:0xC0 80%:0xCC 85%:0xD9 90%:0xE6  -->
-    <color name="key_text_color_lxx_dark">#CCFFFFFF</color>
-    <color name="key_functional_text_color_lxx_dark">#CCFFFFFF</color>
+    <color name="key_text_color_lxx_dark">#FFFFFFFF</color>
+    <color name="key_functional_text_color_lxx_dark">#FFCCCCCC</color>
     <color name="key_text_inactive_color_lxx_dark">#80FFFFFF</color>
-    <color name="key_hint_letter_color_lxx_dark">#009688</color>
+    <color name="key_hint_letter_color_lxx_dark">#FFEEEEEE</color>
     <color name="language_on_spacebar_text_color_lxx_dark">#B3FFFFFF</color>
     <color name="highlight_color_lxx_dark">#ffffff</color>
-    <color name="auto_correct_color_lxx_dark">#FFFFFF</color>
+    <color name="auto_correct_color_lxx_dark">#FFFFFFFF</color>
     <color name="typed_word_color_lxx_dark">#D9FFFFFF</color>
-    <color name="suggested_word_color_lxx_dark">#FFFFFF</color>
+    <color name="suggested_word_color_lxx_dark">#FFEEEEEE</color>
     <color name="gesture_trail_color_lxx_dark">#009688</color>
-    <color name="sliding_key_input_preview_color_lxx_dark">#B3ffffff</color>
+    <color name="sliding_key_input_preview_color_lxx_dark">#FFFFFFFF</color>
     <color name="key_background_lxx_dark">#000000</color>
-    <color name="key_background_pressed_lxx_dark">#19000000</color>
+    <color name="key_background_pressed_lxx_dark">#20FFFFFF</color>
     <color name="suggested_word_background_selected_lxx_dark">#19FFFFFF</color>
-    <color name="gesture_floating_preview_color_lxx_dark">#E621272B</color>
+    <color name="gesture_floating_preview_color_lxx_dark">#E6111111</color>
     <color name="emoji_tab_page_indicator_background_lxx_dark">#000000</color>
     <!-- Color resources for setup wizard and tutorial -->
     <color name="setup_background">#FFEBEBEB</color>
